@@ -1,5 +1,9 @@
 # MACHINE ANIMATION
 
+## Testing
+
+Clique na tela para iniciar a animação
+
 ## Assets
 
 A pasta `/assets/frames` contém todos os frames do vídeo. Para otimizar o tempo do carregamento, você pode excluir os frames repetidos ou semelhantes.
